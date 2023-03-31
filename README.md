@@ -1,5 +1,6 @@
 <h3>Bonjour</h3>
 <div>
+    ## 🚀 About Me
     <p>
         Je suis Enzo, étudiant en deuxième année de BTS SIO (Services informatiques aux organisations) en option développement SLAM (Solutions logicielles et applications métiers)
     </p>
