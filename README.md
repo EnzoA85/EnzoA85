@@ -1,10 +1,13 @@
-<a href="https://twitter.com/ewoxyt">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+<h3>Bonjour</h3>
+<div>
+    <p>
+        Je suis Enzo, étudiant en deuxième année de BTS SIO (Services informatiques aux organisations) en option développement SLAM (Solutions logicielles et applications métiers)
+    </p>
+</div>
+
   ---
   
-  <div>
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
