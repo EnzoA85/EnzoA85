@@ -1,6 +1,7 @@
 
 ## 🚀 About Me
-Je suis Enzo, étudiant en Licence Professionnelle Métiers de l'informatique : applications web
+Je suis Enzo, étudiant en Licence Professionnelle Métiers de l'informatique : applications web à l'Université des sciences d'Angers.
+Issu d'un BAC Générale mathématique et NSI ainsi que d'un BTS SIO option SLAM au lycée Savary de Mauléon au sables d'olonne.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/portfolio-enzo-archambaud/accueil)
