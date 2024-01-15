@@ -6,8 +6,8 @@ Je suis Enzo, un passionné de la programmation et du développement de logiciel
 ## 🔗 Links
 
 - 🌐 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/portfolio-enzo-archambaud/accueil)
-- 📧 <a href="mailto:bib.enzoarchambaud@gmail.com" style="text-decoration: none; color: #0366d6; font-weight: bold;">Adresse e-mail</a>
-
+- 📧 [Adresse e-mail](mailto:bib.enzoarchambaud@gmail.com){: .btn}
+- 
 ## 🛠 Compétences
 - Langages : Python, JavaScript, Java, HTML, CSS, PHP, C#, C, TypeScript
 - Frameworks: Symfony, Ionic
