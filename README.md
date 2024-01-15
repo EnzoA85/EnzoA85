@@ -21,7 +21,7 @@ Je suis Enzo, un passionné de la programmation et du développement de logiciel
 - [Projet C](https://github.com/DBoudero/ProjetCSujet1): Projet d'étude de licence pro en C de conversion et de calcul de nombre binaire.
 
 ## Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ewox85&show_icons=true&theme=dark)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Ewox85&show_icons=true&theme=dark)
 
 ## Contact
 - LinkedIn: [Votre Nom](https://www.linkedin.com/in/enzo-archambaud-2715b9238/)
