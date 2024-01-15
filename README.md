@@ -24,6 +24,6 @@ Je suis Enzo, un passionné de la programmation et du développement de logiciel
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Ewox85&show_icons=true&theme=dark)
 
 ## Contact
-- LinkedIn: [Votre Nom](https://www.linkedin.com/in/enzo-archambaud-2715b9238/)
+- LinkedIn: [Archambaud Enzo](https://www.linkedin.com/in/enzo-archambaud-2715b9238/)
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion intéressante. Merci de visiter mon profil!
