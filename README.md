@@ -6,7 +6,9 @@ Je suis Enzo, un passionné de la programmation et du développement de logiciel
 ## 🔗 Links
 
 - 🌐 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/portfolio-enzo-archambaud/accueil)
-- 📧 [Adresse e-mail](mailto:bib.enzoarchambaud@gmail.com)
+- 📧 <a href="mailto:bib.enzoarchambaud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/eMail-005FF9?style=for-the-badge&logo=maildotru&logoColor=white">
+  </a>
   
 ## 🛠 Compétences
 - Langages : Python, JavaScript, Java, HTML, CSS, PHP, C#, C, TypeScript
