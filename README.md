@@ -1,32 +1,29 @@
+# Bienvenue sur mon profil GitHub 👋
 
-## 🚀 About Me
-Je suis Enzo, étudiant en Licence Professionnelle Métiers de l'informatique : applications web à l'Université des sciences d'Angers.
-Issu d'un BAC Générale mathématique et NSI ainsi que d'un BTS SIO option SLAM au lycée Savary de Mauléon au sables d'olonne.
+## 🚀 À propos de moi
+Je suis Enzo, un passionné de la programmation et du développement de logiciels, notamment web. Je suis étudiant en Licence Professionnelle Métiers de l'informatique : applications web à l'Université des sciences d'Angers et issu d'un BAC Générale mathématique et NSI ainsi que d'un BTS SIO option SLAM au lycée Savary de Mauléon au sables d'olonne.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/portfolio-enzo-archambaud/accueil)
-  
-## 🛠 Skills
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescrip" alt="Typescript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
 
-</div>
+- 🌐 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/portfolio-enzo-archambaud/accueil)
+- 📧 [Adresse e-mail](bib.enzoarchambaud@gmail.com)
 
----
+## 🛠 Compétences
+- Langages : Python, JavaScript, Java, HTML, CSS, PHP, C#, C, TypeScript
+- Frameworks: Symfony, Ionic
+- Base de données: MySQL, MariaDB, PostgreSQL
+- Outils de développement: Git, Github, Gitlab
+- CMS : Wordpress
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=websitenet&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🛠 Projets récents
+- [HackatWeb](https://github.com/Ewox85/HackatWeb): Projet Symfony de deuxième année de BTS utilisant de manière complètement la majorité des fonctionnalités de Symfony.
+- [AhMaZone](https://github.com/AceMisterAll/AhMaZone): Projet d'étude de licence pro en Symfony imitant un site d'e-commerce sans la partie payement.
+- [Projet C](https://github.com/DBoudero/ProjetCSujet1): Projet d'étude de licence pro en C de conversion et de calcul de nombre binaire.
 
----
+## Statistiques GitHub
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ewox85&show_icons=true&theme=dark)
+
+## Contact
+- LinkedIn: [Votre Nom](https://www.linkedin.com/in/enzo-archambaud-2715b9238/)
+
+N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion intéressante. Merci de visiter mon profil!
