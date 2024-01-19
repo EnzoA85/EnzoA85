@@ -19,7 +19,7 @@ Je suis Enzo, un passionné de la programmation et du développement de logiciel
 
 ## 🛠 Projets récents
 - [HackatWeb](https://github.com/Ewox85/HackatWeb): Projet Symfony de deuxième année de BTS utilisant de manière complètement la majorité des fonctionnalités de Symfony.
-- [AhMaZone](https://github.com/AceMisterAll/AhMaZone): Projet d'étude de licence pro en Symfony imitant un site d'e-commerce sans la partie payement.
+- [AhMaZone](https://github.com/Ewox85/AhMaZone): Projet d'étude de licence pro en Symfony imitant un site d'e-commerce sans la partie payement.
 - [Projet C](https://github.com/DBoudero/ProjetCSujet1): Projet d'étude de licence pro en C de conversion et de calcul de nombre binaire.
 
 ## Statistiques GitHub
