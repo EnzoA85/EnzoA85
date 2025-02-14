@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub 👋
 
 ## 🚀 À propos de moi
-Je suis Enzo, un passionné de la programmation et du développement de logiciels, notamment web. Je suis étudiant en Licence Professionnelle Métiers de l'informatique : applications web à l'Université des sciences d'Angers et issu d'un BAC Générale mathématique et NSI ainsi que d'un BTS SIO option SLAM au lycée Savary de Mauléon au sables d'olonne.
+Je suis Enzo, un passionné de la programmation et du développement de logiciels, notamment web. Je suis étudiant en Mastère Spécialisation Développement full stack à Sup de Vinci Nantes et issu d'un BAC Générale mathématique et NSI ainsi que d'un BTS SIO option SLAM au lycée Savary de Mauléon au sables d'olonne et d'une Licence Professionnelle Métiers de l'informatique : applications web à l'Université des sciences d'Angers.
 
 ## 🔗 Links
 
